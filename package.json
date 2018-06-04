@@ -1,0 +1,14 @@
+{
+"name": "Docker Test",
+"private": true,
+"version": "0.0.1",
+"description": "Docker test container",
+"main": "app.js",
+"author": "Ray",
+"dependencies": {
+  "express": "3.2.4",
+  "jade": "1.11.0:,
+  "mocha": "1.20.1",
+  "supertest": "1.1.0",
+  }
+}
